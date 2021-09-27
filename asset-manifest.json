@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/small-cloths-shop/static/css/main.272f9178.chunk.css",
+    "main.js": "/small-cloths-shop/static/js/main.ee531b1c.chunk.js",
+    "main.js.map": "/small-cloths-shop/static/js/main.ee531b1c.chunk.js.map",
+    "runtime-main.js": "/small-cloths-shop/static/js/runtime-main.f686cbea.js",
+    "runtime-main.js.map": "/small-cloths-shop/static/js/runtime-main.f686cbea.js.map",
+    "static/js/2.93f61e6c.chunk.js": "/small-cloths-shop/static/js/2.93f61e6c.chunk.js",
+    "static/js/2.93f61e6c.chunk.js.map": "/small-cloths-shop/static/js/2.93f61e6c.chunk.js.map",
+    "index.html": "/small-cloths-shop/index.html",
+    "static/css/main.272f9178.chunk.css.map": "/small-cloths-shop/static/css/main.272f9178.chunk.css.map",
+    "static/js/2.93f61e6c.chunk.js.LICENSE.txt": "/small-cloths-shop/static/js/2.93f61e6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f686cbea.js",
+    "static/js/2.93f61e6c.chunk.js",
+    "static/css/main.272f9178.chunk.css",
+    "static/js/main.ee531b1c.chunk.js"
+  ]
+}
